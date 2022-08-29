@@ -1,0 +1,17 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://mayowasamuel/mywebiste",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
